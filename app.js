@@ -18,4 +18,10 @@ console.log("Hello, console!!");
 // console.log(getSum(10,20));
 
 // step-04
-let getSum = (x+y) => x+y;
+// let getSum = (x,y) => x+y;
+// console.log(getSum(10,20));
+
+// step-05
+// let getName = name=> "Hello "+name;
+// console.log(getName("Kesh"));
+
